@@ -24,7 +24,7 @@ aerospace and bioinspired applications, including flapping-wing UAVs.
 
 The content is available for non-commercial research under the following terms: (i) GMSINT Group and UNESP Ilha Solteira should be acknowledged as the source of the data; (ii) this repository should be cited as follows:
 
-> Marchiori, V. D.; Santos, R. B.; Bueno, D. D. (2025). *Flapping-wings UAV: CAD Prototype*. GitHub, https://github.com/vitordmarchiori/Photovoltaic-IV-PV-Analysis.
+> Marchiori, V. D.; Santos, R. B.; Bueno, D. D. (2025). *Photovoltaic I-V and P-V Curve Analysis*. GitHub, https://github.com/vitordmarchiori/Photovoltaic-IV-PV-Analysis.
 
 ### BibTeX
 
