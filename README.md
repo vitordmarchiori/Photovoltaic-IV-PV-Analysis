@@ -50,20 +50,6 @@
   </tr>
 </table>
 
-
-<div align="center">
-
-# Photovoltaic I–V and P–V Curve Analysis
-</div>
-
-This repository contains MATLAB and Python codes for the simulation and analysis
-of photovoltaic I–V and P–V curves under varying conditions.
-
-| [![Effect of Irradiance](Figures/G.png)](Figures/G.png) | [![Effect of Temperature](Figures/T.png)](Figures/T.png) | [![Effect of Shunt Resistance Rsh](Figures/Rsh.png)](Figures/Rsh.png) |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Effect of Series Resistance Rs](Figures/Rs.png)](Figures/Rs.png)                                              | [![Effect of Reverse Saturation Current I₀](Figures/Is.png)](Figures/Is.png)                                     |                                                                                                                                       |
-
-
 ## Repository contents
 
 - `/MATLAB/`  
