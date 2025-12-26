@@ -1,3 +1,56 @@
+<h1 align="center">Photovoltaic I–V and P–V Curve Analysis</h1>
+
+<p align="center">
+  MATLAB tools for simulating and analyzing photovoltaic I–V and P–V curves
+  under varying irradiance, temperature, and model parameters.
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="Figures/G.png">
+        <img src="Figures/G.png" width="260" alt="Effect of Irradiance">
+      </a>
+      <br>
+      <sub><b>Effect of Irradiance</b></sub>
+    </td>
+    <td align="center">
+      <a href="Figures/T.png">
+        <img src="Figures/T.png" width="260" alt="Effect of Temperature">
+      </a>
+      <br>
+      <sub><b>Effect of Temperature</b></sub>
+    </td>
+    <td align="center">
+      <a href="Figures/Rsh.png">
+        <img src="Figures/Rsh.png" width="260" alt="Effect of Rsh">
+      </a>
+      <br>
+      <sub><b>Effect of Shunt Resistance R<sub>sh</sub></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Figures/Rs.png">
+        <img src="Figures/Rs.png" width="260" alt="Effect of Rs">
+      </a>
+      <br>
+      <sub><b>Effect of Series Resistance R<sub>s</sub></b></sub>
+    </td>
+    <td align="center">
+      <a href="Figures/Is.png">
+        <img src="Figures/Is.png" width="260" alt="Effect of Is">
+      </a>
+      <br>
+      <sub><b>Effect of Reverse Saturation Current I<sub>s</sub></b></sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 <div align="center">
 
 # Photovoltaic I–V and P–V Curve Analysis
@@ -9,7 +62,6 @@ of photovoltaic I–V and P–V curves under varying conditions.
 | [![Effect of Irradiance](Figures/G.png)](Figures/G.png) | [![Effect of Temperature](Figures/T.png)](Figures/T.png) | [![Effect of Shunt Resistance Rsh](Figures/Rsh.png)](Figures/Rsh.png) |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Effect of Series Resistance Rs](Figures/Rs.png)](Figures/Rs.png)                                              | [![Effect of Reverse Saturation Current I₀](Figures/Is.png)](Figures/Is.png)                                     |                                                                                                                                       |
-
 
 
 ## Repository contents
