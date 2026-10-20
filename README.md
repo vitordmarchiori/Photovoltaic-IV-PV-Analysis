@@ -72,7 +72,7 @@ The content is available for non-commercial research under the following terms: 
 
 ### BibTeX
 
-If you are using a LaTeX Editor, you can cite this repository using these BibTeX citations:
+If you are using a LaTeX Editor, you can cite this repository using these BibTeX citations: 
 
 ```bibtex
 @misc{marchiori2025,
